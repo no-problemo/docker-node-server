@@ -1,5 +1,5 @@
-# node-test-server
+# docker-node-server
 
-Build the image:
-                    
-    docker build -t sample-node .
+Instructions:
+
+http://alexandar.co/2015/04/06/Dockerizing-a-Node-js-Web-App/
